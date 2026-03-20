@@ -1,0 +1,14 @@
+# OmniEmu - Exclusions
+*.exe
+*.dll
+*.pdb
+.vs/
+x64/
+
+# User Data & System Files (Do not share BIOS/Firmware!)
+/Cores/
+/Bios/
+/Firmware/
+/Shaders_Cache/
+/Saves/
+config_user.json
